@@ -1,0 +1,42 @@
+body{
+    background: linear-gradient(to right, purple, blue);
+    color: white;
+
+
+    h1,h2,h3{
+        text-align: center;
+    }
+
+    #qq,#bb{
+        text-align: right;
+
+    }
+    p{
+        text-align: center;
+    }
+
+    a{
+        text-decoration: none;
+        color: aquamarine;
+        text-align: center;
+        display: block;
+    }
+
+    img{
+        display: block;
+        margin: 10px auto 20px;
+    }
+    form{
+        background-color: tan;
+        text-align: center;
+        display: table;
+    }
+    table,tr,th,td{
+        background-color: wheat;
+        
+        text-align: center;
+        border: 1px solid black;
+    }
+
+
+}
